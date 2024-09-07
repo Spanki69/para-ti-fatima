@@ -1,0 +1,38 @@
+cuerpo {
+  color de fondo : morado
+    ;
+  color : blanco;
+  relleno :  50 px ;
+}
+
+pag {
+  tamaño de fuente :  30 px ;
+  peso de fuente : negrita;
+}
+
+# cambiar ,  # mover  botón {
+  color de fondo : rosa;
+  color : negro;
+  ancho :  100 px ;
+  altura :  80 px ;
+  posición : absoluta;
+}
+
+# mover {
+  relleno :  30 px ;
+  ancho :  100 px ;
+  altura :  80 px ;
+  posición : absoluta;
+}
+
+. oculto {
+  pantalla : ninguna;
+}
+
+# mover {
+  izquierda :  200 px ;
+}
+
+# cambio : pasar el cursor {
+  cursor : puntero;
+}
